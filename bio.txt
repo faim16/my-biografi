@@ -4,3 +4,4 @@ Hobi:
 -berenang
 -memasak
 -berkebun
+-memancing
