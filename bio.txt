@@ -5,3 +5,8 @@ Hobi:
 -memasak
 -berkebun
 -memancing
+
+sekolah:
+-sdn waung
+-smpn 1 tulangan
+-smk trisakti tulangan
